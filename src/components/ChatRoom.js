@@ -14,7 +14,7 @@ const ChatRoom = () => {
 
     const [userData, setUserData] = useState({
         username: "",
-        receivername: "",
+        receiverName: "",
         connected: false,
         message: ""
     });
